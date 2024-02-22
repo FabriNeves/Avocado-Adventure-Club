@@ -16,3 +16,8 @@ for celular in celulares:
     for versao in versoes:
         print(f'{celular} {versao}')
 
+# ----
+        
+
+numeros = [1,2,3,4,5]
+
